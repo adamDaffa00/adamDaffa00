@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h2> My name is Adam Daffa Alghifari. </h2>
 
-- 🌱 im currently learning some front end tools and frameworks  
-- 🤔 I’m looking for help with group discussion, youtube channels, stackoverflow, w3shools, etc
+i'm currently learning some front end tools and frameworks  
+I’m looking for help with group discussion, youtube channels, stackoverflow, w3shools, etc
 
 <!--
 **adamDaffa00/adamDaffa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
