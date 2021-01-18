@@ -2,13 +2,13 @@
 <p> a junior frontend developer who uses makeshift tools to create a small project. a junior frontend developer who uses makeshift tools to create a small project </p>
 
 ## about me
- <p> me  every project in the 'mini showcase project' repository I made using a smartphone and not using a laptop, because we don't have it yet </p>
+ <p> me  every project in the 'mini showcase project' repository I made using a smartphone and not using a laptop, because we don't have it yet 😂, I enjoy learning the language and frameworks. I am currently practice and multiply mini projects for hone my logic </p>
  
 ## skills
-HTML <br>
-JS (node js) <br>
+💻HTML,
+JS (node js)
 CSS <br>
-VUE JS
+💚 VUE JS
 
 <!--
 **adamDaffa00/adamDaffa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
