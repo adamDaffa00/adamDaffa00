@@ -1,12 +1,18 @@
-### Hi there 👋
-<h2> My name is Adam Daffa Alghifari. </h2>
+# adam daffa
+<p> a junior frontend developer who uses makeshift tools to create a small project. a junior frontend developer who uses makeshift tools to create a small project </p>
 
-i'm currently learning some front end tools and frameworks  
-I’m looking for help with group discussion, youtube channels, stackoverflow, w3shools, etc
+## about me
+ <p> me  every project in the 'mini showcase project' repository I made using a smartphone and not using a laptop, because we don't have it yet </p>
+ 
+## skills
+HTML <br>
+JS (node js) <br>
+CSS <br>
+VUE JS
 
 <!--
 **adamDaffa00/adamDaffa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+jj
  
 
 here are some ideas to get you started:
